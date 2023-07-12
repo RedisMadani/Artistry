@@ -1,5 +1,6 @@
 # Artistry
 
+![Artistry](https://github.com/RedisMadani/Artistry/assets/136177376/4aa5429b-be94-4dd5-bf1b-56e27660c6a2)
 
 ## Description:
 Artistry is a Swift app that demonstrates the implementation of dynamic height for table view cells based on their content. This app serves as a practical example following the tutorial [*Self-sizing Table View Cells*](https://www.raywenderlich.com/129059/self-sizing-table-view-cells) from Ray Wenderlich's tech blog. By showcasing this technique, the app provides an understanding of how to create self-sizing table view cells, ensuring a seamless and visually appealing user interface.
@@ -20,7 +21,7 @@ To run Artistry on your iOS device or simulator, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-repo/Artistry.git
+git clone https://github.com/RedisMadani/Artistry.git
 ```
 
 2. Open the project in Xcode:
